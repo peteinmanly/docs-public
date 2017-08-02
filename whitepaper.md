@@ -517,7 +517,7 @@ All funds received through the Entropy Token sale will be utilised by the Entrop
 
 #### **Development**
 
-Hut34 Project development will build upon Ethereum, it's ecosystem of quality open source projects and then layering our core feature requirements of Routing, Ranking and Monetisation utilising Dapp micro services.
+Hut34 Project development will build upon Ethereum, its ecosystem of quality open source projects and then layering our core feature requirements of Routing, Ranking and Monetisation utilising Dapp micro services.
 
 #### **Marketing and Business Development**
 
